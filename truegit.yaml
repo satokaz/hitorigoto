@@ -10,9 +10,6 @@ navLinks:
   - title: Docs
     url: https://docs.truegit.io
     isExternal: true
-  - title: Clone Me
-    url: https://github.com/Kollate/truegit-test
-    isExternal: true
 socials:
   github: https://github.com/satokaz
 authors:
